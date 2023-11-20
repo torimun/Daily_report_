@@ -15,8 +15,8 @@
 - report:クラウド教養の進行
 - day:11/20
 - report:クラウド教養の進行
-- day:
-- report:
+- day:11/21
+- report:クラウド教養 8章必須要件完了
 - day:
 - report:
 - day
