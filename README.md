@@ -23,10 +23,10 @@
 - report:クラウド教養の進行
 - day:11/24
 - report:クラウド教養の進行
-- day:
-- report:
-- day:
-- report:
+- day:11/25
+- report:休日
+- day:11/26
+- report:休日
 - day:
 - report:
 - day:
