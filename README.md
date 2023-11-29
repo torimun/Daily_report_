@@ -27,14 +27,14 @@
 - report:休日
 - day:11/26
 - report:休日
-- day:
-- report:
-- day:
-- report:
-- day:
-- report:
-- day
-- report:
+- day:11/27
+- report:クラウド教養 10章学習完了 クラウド教養フェーズ終了
+- day:11/28
+- report:履歴書作成
+- day:11/29
+- report:履歴書作成
+- day11/30
+- report:slackにてCAに完成予定の
 - day:
 - report:
 - day:
