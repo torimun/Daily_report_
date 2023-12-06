@@ -46,7 +46,7 @@
 - day:12/5
 - report:PFドメイン設定
 - day:12/6
-- report:PFドメイン設定完了
+- report:PFドメイン設定完了および、https通信の設定完了
 - day
 - report:
 - day:
