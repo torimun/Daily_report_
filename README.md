@@ -43,10 +43,10 @@
 - report:休み
 - day:12/4
 - report:履歴書完了報告
-- day:
-- report:
-- day:
-- report:
+- day:12/5
+- report:PFドメイン設定
+- day:12/6
+- report:PFドメイン設定完了
 - day
 - report:
 - day:
