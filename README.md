@@ -71,10 +71,10 @@
 - report:チャレンジコース学習
 - day:12/18
 - report:履歴書修正
-- day:
-- report:
-- day:
-- report:
+- day:12/19
+- report:職務経歴書修正
+- day:12/20
+- report:職務経歴書修正完了　CAに完了
 - day
 - report:
 - day:
