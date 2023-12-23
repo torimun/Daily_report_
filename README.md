@@ -75,12 +75,12 @@
 - report:職務経歴書修正
 - day:12/20
 - report:職務経歴書修正完了　CAに完了
-- day
-- report:
-- day:
-- report:
-- day:
-- report:
+- day:12/21
+- report:休日
+- day:12/22
+- report:チャレンジコース学習
+- day:12/23
+- report:チャレンジコース学習
 - day:
 - report:
 - day:
