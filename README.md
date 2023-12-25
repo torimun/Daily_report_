@@ -81,10 +81,10 @@
 - report:チャレンジコース学習
 - day:12/23
 - report:チャレンジコース学習
-- day:
-- report:
-- day:
-- report:
+- day:12/24
+- report:チャレンジコース学習
+- day:12/25
+- report:チャレンジコース
 - day:
 - report:
 - day:
