@@ -91,8 +91,8 @@
 - report:休日
 - day12/28
 - report:チャレンジコース学習
-- day:
-- report:
+- day:12/29
+- report:職務経歴書再度
 - day:
 - report:
 - day:
