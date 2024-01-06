@@ -107,8 +107,8 @@
 - report:チャレンジコース学習
 - day:1/5
 - report:チャレンジコース学習
-- day:
-- report:
+- day:1/6
+- report:チャレンジコース学習
 - day:
 - report:
 - day:
