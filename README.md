@@ -141,10 +141,10 @@
 - report:休日
 - day:1/22
 - report:休日
-- day1/23
+- day:1/23
 - report:チャレンジコース学習
-- day:
-- report:
+- day:1/24
+- report:チャレンジコース学習
 - day:
 - report:
 - day:
