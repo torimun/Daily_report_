@@ -155,10 +155,10 @@
 - report:休日
 - day:1/29
 - report:WCMシート作成・チャレンジコース学習
-- day
-- report:
-- day:
-- report:
+- day1/30
+- report:休日
+- day:1/31
+- report:WCMシート作成
 - day:
 - report:
 - day:
