@@ -167,8 +167,8 @@
 - report:チャレンジコース学習
 - day:2/4
 - report:チャレンジコース学習
-- day:
-- report:
+- day:2/5
+- report:チャレンジコース学習JS完了(次回よりFEの学習)
 - day
 - report:
 - day:
