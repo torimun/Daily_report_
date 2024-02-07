@@ -169,10 +169,10 @@
 - report:チャレンジコース学習
 - day:2/5
 - report:チャレンジコース学習JS完了(次回よりFEの学習)
-- day
-- report:
-- day:
-- report:
+- day:2/6
+- report:休日
+- day:2/7
+- report:FE学習(基礎学習12日まで)
 - day:
 - report:
 - day:
