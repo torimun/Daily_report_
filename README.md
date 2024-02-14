@@ -185,8 +185,8 @@
 - report:WCMシートの軽度の修正・内容確認
 - day:2/13
 - report:模擬面接
-- day:
-- report:
+- day:2/14
+- report:FE学習
 - day:
 - report:
 - day:
