@@ -195,8 +195,8 @@
 - report:就職関連作業
 - day:2/18
 - report:就職関連作業
-- day:
-- report:
+- day:2/19
+- report:就職関連
 - day
 - report:
 - day:
