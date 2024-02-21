@@ -196,11 +196,11 @@
 - day:2/18
 - report:就職関連作業
 - day:2/19
-- report:就職関連
-- day
-- report:
-- day:
-- report:
+- report:就職関連作業
+- day2/20
+- report:就職関連書類提出
+- day:2/21
+- report:FE学習
 - day:
 - report:
 - day:
