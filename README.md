@@ -201,8 +201,8 @@
 - report:就職関連書類提出
 - day:2/21
 - report:FE学習
-- day:
-- report:
+- day:2/22
+- report:就職関連書類修正・提出
 - day:
 - report:
 - day:
