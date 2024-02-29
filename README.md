@@ -217,8 +217,8 @@
 - report:就職関連書類追記・FE学習
 - day:2/29
 - report:FE学習
-- day:
-- report:
+- day:3/1
+- report:FE学習（次回以降午後問題に取り組み）
 - day:
 - report:
 - day:
