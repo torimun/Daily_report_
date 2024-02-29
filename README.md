@@ -215,8 +215,8 @@
 - report:FE学習
 - day:2/28
 - report:就職関連書類追記・FE学習
-- day:
-- report:
+- day:2/29
+- report:FE学習
 - day:
 - report:
 - day:
