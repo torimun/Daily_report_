@@ -225,8 +225,8 @@
 - report:FE学習＋面接対策
 - day:3/4
 - report:FE＋面接対策
-- day:
-- report:
+- day:3/5
+- report:面接対策
 - day:
 - report:
 - day:
