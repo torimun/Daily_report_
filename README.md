@@ -227,10 +227,10 @@
 - report:FE＋面接対策
 - day:3/5
 - report:面接対策
-- day:
-- report:
-- day:
-- report:
+- day:3/6
+- report:面接当日対策
+- day:3/7
+- report:履歴書修正、FE学習
 - day:
 - report:
 - day:
