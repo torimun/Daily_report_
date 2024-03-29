@@ -273,8 +273,8 @@
 - report:面接当日・外出
 - day:3/28
 - report:FE学習
-- day:
-- report:
+- day:3/29
+- report:FE学習
 - day:
 - report:
 - day:
