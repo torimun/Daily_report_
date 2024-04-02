@@ -281,10 +281,10 @@
 - report:外出
 - day:4/1
 - report:FE学習
-- day
-- report:
-- day:
-- report:
+- day:4/2
+- report:面接対策
+- day:4/3
+- report:面接対策
 - day:
 - report:
 - day:
