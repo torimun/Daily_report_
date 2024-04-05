@@ -286,9 +286,9 @@
 - day:4/3
 - report:面接対策
 - day:4/4
-- report:株式会社スリー・イー企業説明会　FE学習
-- day:
-- report:
+- report:就職活動　企業説明会　FE学習
+- day:4/5
+- report:就職活動応募連絡・FE学習
 - day:
 - report:
 - day:
