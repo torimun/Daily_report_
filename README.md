@@ -289,12 +289,12 @@
 - report:就職活動　企業説明会　FE学習
 - day:4/5
 - report:就職活動応募連絡・FE学習
-- day:
-- report:
-- day:
-- report:
-- day:
-- report:
+- day:4/6
+- report:面接対策
+- day:4/7
+- report:面接対策・FE学習
+- day:4/8
+- report:面接対策・FE学習
 - day:
 - report:
 - day:
